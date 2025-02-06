@@ -6,7 +6,8 @@
 
 Клонируйте репозиторий:
 
-```git clone https://github.com/rouslen11/seminars-app.git
+```
+git clone https://github.com/rouslen11/seminars-app.git
 ```
 
 Установите зависимости:
